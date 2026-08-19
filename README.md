@@ -1,13 +1,14 @@
-Uma das principais vantagens é que o diagrama passa a ser **texto**, e não apenas uma imagem.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
-Isso traz algumas consequências importantes:
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
-- pode ser editado facilmente;
-- pode ser armazenado junto ao código do projeto;
-- pode ser acompanhado pelo Git;
-- pode ser alterado por diferentes integrantes;
-- pode ser revisado utilizando as próprias ferramentas de versionamento;
-- não depende de um arquivo de imagem separado;
-- permite atualizar a documentação conforme o sistema evolui.
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
-Por exemplo, se o modelo de dados do Sistema de Biblioteca mudar, podemos modificar a descrição do diagrama e registrar essa alteração junto com as demais modificações do projeto:
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
