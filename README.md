@@ -11,6 +11,7 @@ erDiagram
         int id
         string nome
         string email
+        string tel
     }
 
     LIVRO {
