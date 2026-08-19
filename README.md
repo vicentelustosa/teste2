@@ -26,9 +26,6 @@ erDiagram
         date data_devolucao
     }
 
----
-title: Animal example
----
 classDiagram
     note "From Duck till Zebra"
     Animal <|-- Duck
